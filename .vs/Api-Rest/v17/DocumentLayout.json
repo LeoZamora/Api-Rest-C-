@@ -1,0 +1,121 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Usuario\\OneDrive\\Documentos\\Trabajos de VS\\Proyecto Nuevo\\Api-Rest\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8F942C7A-81F2-47EA-8EB9-07461729E556}|Api-Rest\\Api-Rest.csproj|c:\\users\\usuario\\onedrive\\documentos\\trabajos de vs\\proyecto nuevo\\api-rest\\api-rest\\controllers\\clientescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8F942C7A-81F2-47EA-8EB9-07461729E556}|Api-Rest\\Api-Rest.csproj|solutionrelative:api-rest\\controllers\\clientescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8F942C7A-81F2-47EA-8EB9-07461729E556}|Api-Rest\\Api-Rest.csproj|C:\\Users\\Usuario\\OneDrive\\Documentos\\Trabajos de VS\\Proyecto Nuevo\\Api-Rest\\api-rest\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{8F942C7A-81F2-47EA-8EB9-07461729E556}|Api-Rest\\Api-Rest.csproj|solutionrelative:api-rest\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8F942C7A-81F2-47EA-8EB9-07461729E556}|Api-Rest\\Api-Rest.csproj|C:\\Users\\Usuario\\OneDrive\\Documentos\\Trabajos de VS\\Proyecto Nuevo\\Api-Rest\\api-rest\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8F942C7A-81F2-47EA-8EB9-07461729E556}|Api-Rest\\Api-Rest.csproj|solutionrelative:api-rest\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8F942C7A-81F2-47EA-8EB9-07461729E556}|Api-Rest\\Api-Rest.csproj|C:\\Users\\Usuario\\OneDrive\\Documentos\\Trabajos de VS\\Proyecto Nuevo\\Api-Rest\\api-rest\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8F942C7A-81F2-47EA-8EB9-07461729E556}|Api-Rest\\Api-Rest.csproj|solutionrelative:api-rest\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8F942C7A-81F2-47EA-8EB9-07461729E556}|Api-Rest\\Api-Rest.csproj|C:\\Users\\Usuario\\OneDrive\\Documentos\\Trabajos de VS\\Proyecto Nuevo\\Api-Rest\\api-rest\\context\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8F942C7A-81F2-47EA-8EB9-07461729E556}|Api-Rest\\Api-Rest.csproj|solutionrelative:api-rest\\context\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8F942C7A-81F2-47EA-8EB9-07461729E556}|Api-Rest\\Api-Rest.csproj|C:\\Users\\Usuario\\OneDrive\\Documentos\\Trabajos de VS\\Proyecto Nuevo\\Api-Rest\\api-rest\\models\\cliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8F942C7A-81F2-47EA-8EB9-07461729E556}|Api-Rest\\Api-Rest.csproj|solutionrelative:api-rest\\models\\cliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ClientesController.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\OneDrive\\Documentos\\Trabajos de VS\\Proyecto Nuevo\\Api-Rest\\Api-Rest\\Controllers\\ClientesController.cs",
+              "RelativeDocumentMoniker": "Api-Rest\\Controllers\\ClientesController.cs",
+              "ToolTip": "C:\\Users\\Usuario\\OneDrive\\Documentos\\Trabajos de VS\\Proyecto Nuevo\\Api-Rest\\Api-Rest\\Controllers\\ClientesController.cs",
+              "RelativeToolTip": "Api-Rest\\Controllers\\ClientesController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-19T19:57:30.247Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AppDBContext.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\OneDrive\\Documentos\\Trabajos de VS\\Proyecto Nuevo\\Api-Rest\\Api-Rest\\Context\\AppDBContext.cs",
+              "RelativeDocumentMoniker": "Api-Rest\\Context\\AppDBContext.cs",
+              "ToolTip": "C:\\Users\\Usuario\\OneDrive\\Documentos\\Trabajos de VS\\Proyecto Nuevo\\Api-Rest\\Api-Rest\\Context\\AppDBContext.cs",
+              "RelativeToolTip": "Api-Rest\\Context\\AppDBContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-19T19:39:03.764Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Cliente.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\OneDrive\\Documentos\\Trabajos de VS\\Proyecto Nuevo\\Api-Rest\\Api-Rest\\Models\\Cliente.cs",
+              "RelativeDocumentMoniker": "Api-Rest\\Models\\Cliente.cs",
+              "ToolTip": "C:\\Users\\Usuario\\OneDrive\\Documentos\\Trabajos de VS\\Proyecto Nuevo\\Api-Rest\\Api-Rest\\Models\\Cliente.cs",
+              "RelativeToolTip": "Api-Rest\\Models\\Cliente.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-19T19:36:32.761Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "WeatherForecast.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\OneDrive\\Documentos\\Trabajos de VS\\Proyecto Nuevo\\Api-Rest\\Api-Rest\\WeatherForecast.cs",
+              "RelativeDocumentMoniker": "Api-Rest\\WeatherForecast.cs",
+              "ToolTip": "C:\\Users\\Usuario\\OneDrive\\Documentos\\Trabajos de VS\\Proyecto Nuevo\\Api-Rest\\Api-Rest\\WeatherForecast.cs",
+              "RelativeToolTip": "Api-Rest\\WeatherForecast.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-19T19:35:54.402Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\OneDrive\\Documentos\\Trabajos de VS\\Proyecto Nuevo\\Api-Rest\\Api-Rest\\Program.cs",
+              "RelativeDocumentMoniker": "Api-Rest\\Program.cs",
+              "ToolTip": "C:\\Users\\Usuario\\OneDrive\\Documentos\\Trabajos de VS\\Proyecto Nuevo\\Api-Rest\\Api-Rest\\Program.cs",
+              "RelativeToolTip": "Api-Rest\\Program.cs",
+              "ViewState": "AQIAAB0AAAAAAAAAAAAhwC4AAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-19T19:34:19.162Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Usuario\\OneDrive\\Documentos\\Trabajos de VS\\Proyecto Nuevo\\Api-Rest\\Api-Rest\\appsettings.json",
+              "RelativeDocumentMoniker": "Api-Rest\\appsettings.json",
+              "ToolTip": "C:\\Users\\Usuario\\OneDrive\\Documentos\\Trabajos de VS\\Proyecto Nuevo\\Api-Rest\\Api-Rest\\appsettings.json",
+              "RelativeToolTip": "Api-Rest\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-05-19T19:23:33.215Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
